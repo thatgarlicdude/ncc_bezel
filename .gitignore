@@ -1,0 +1,11 @@
+# Ignore the Mac OS Finder metadata files.
+.DS_Store
+
+# Ignore the Windows thumbnail cache files.
+Thumbs.db
+
+# Ignore the Windows folder customization files.
+Desktop.ini
+
+# Ignore the Linux swap files.
+*.swp
