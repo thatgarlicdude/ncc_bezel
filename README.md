@@ -2,7 +2,7 @@
 
 ## Overview
 
-A fan-made HD recreation inspired by the bezel/overlay style from *Namco Museum (2001)*.
+A fan-made HD vector recreation of the bezel/overlay from *Namco Museum (2001)*.
 
 ## License
 
