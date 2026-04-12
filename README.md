@@ -1,5 +1,7 @@
 # Namco Classic Collection HD Bezel
 
+![Preview](preview/preview.png)
+
 ## Overview
 
 A fan-made HD vector recreation of the bezel/overlay from *Namco Museum (2001)*.
