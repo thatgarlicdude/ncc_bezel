@@ -1,1 +1,2 @@
 Rotation: -55 degrees.
+When using Inkscape, the column shift for X is: -5.535%
