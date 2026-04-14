@@ -1,2 +1,6 @@
-Rotation: -55 degrees.
-When using Inkscape, the column shift for X is: -5.535%
+Shift X per row: -25%
+Shift X per column: -5.535%
+Shift Y per row: 100%
+Shift Y per column: 0%
+
+After the logo gets tile cloned on Inkscape, group the clones and rotate the group by -55 degrees.
