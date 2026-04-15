@@ -4,3 +4,7 @@ Shift Y per row: 100%
 Shift Y per column: 0%
 
 After the logo gets tile cloned on Inkscape, group the clones and rotate the group by -55 degrees.
+
+COLORS:
+
+The blue drop shadow on the logo is 57.254902% darker.
