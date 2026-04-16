@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.7465348"
-     inkscape:cx="322.82487"
+     inkscape:cx="248.48138"
      inkscape:cy="510.35799"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -384,4 +384,11 @@
          inkscape:tiled-clone-of="#layer1-0"
          xlink:href="#layer1-0"
          transform="rotate(-55,437.32286,-60.871625)"
-         id="use1190" /></g></g></svg>
+         id="use1190" /></g><rect
+       style="fill:none;stroke:none;stroke-width:2.96018"
+       id="rect911"
+       width="285.75"
+       height="160.73438"
+       x="-2.8421709e-14"
+       y="62.507812"
+       inkscape:label="16x9" /></g></svg>
