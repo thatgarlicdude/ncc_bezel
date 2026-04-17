@@ -1,7 +1,7 @@
 <mamelayout version="2">
 
 	<element name="bezel">
-		<image file="16x9.png" />
+		<image file="bezel_blue.png" />
 	</element>
 
 	<view name="GarlicDude's HD Namco Classic Collection Bezel">
