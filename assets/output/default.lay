@@ -1,21 +1,95 @@
 <mamelayout version="2">
 
-	<element name="bezel">
+	<!-- The bezel files -->
+
+	<!-- The main blue bezel -->
+	<element name="bezel_blue">
 		<image file="bezel_blue.png" />
 	</element>
 
-	<view name="GarlicDude's HD Namco Classic Collection Bezel">
-
-	<!-- bezel image fills whole display -->
-	<element ref="bezel">
-		<bounds x="0" y="0" width="1920" height="1080" />
+	<!-- The green bezel -->
+	<element name="bezel_green">
+		<image file="bezel_green.png" />
 	</element>
 
-	<!-- game screen placement -->
-	<screen index="0">
-		<bounds x="624" y="108" width="672" height="864" />
-	</screen>
+	<!-- The red bezel -->
+	<element name="bezel_red">
+		<image file="bezel_red.png" />
+	</element>
 
+	<!-- The yellow bezel -->
+	<element name="bezel_yellow">
+		<image file="bezel_yellow.png" />
+	</element>
+
+	<!-- The Orson bezel -->
+	<element name="bezel_orson">
+		<image file="bezel_orson.png" />
+	</element>
+
+	<!-- The main blue MAME bezel -->
+	<view name="GarlicDude's HD Namco Classic Collection Bezel">
+		<!-- Bezel placement -->
+		<element ref="bezel_blue">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</element>
+
+		<!-- Game screen placement -->
+		<screen index="0">
+			<bounds x="624" y="108" width="672" height="864" />
+		</screen>
+	</view>
+
+	<!-- The green MAME bezel -->
+	<view name="GarlicDude's HD Namco Classic Collection Bezel (Green)">
+		<!-- Bezel placement -->
+		<element ref="bezel_green">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</element>
+
+		<!-- Game screen placement -->
+		<screen index="0">
+			<bounds x="624" y="108" width="672" height="864" />
+		</screen>
+	</view>
+
+	<!-- The red MAME bezel -->
+	<view name="GarlicDude's HD Namco Classic Collection Bezel (Red)">
+		<!-- Bezel placement -->
+		<element ref="bezel_red">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</element>
+
+		<!-- Game screen placement -->
+		<screen index="0">
+			<bounds x="624" y="108" width="672" height="864" />
+		</screen>
+	</view>
+
+	<!-- The yellow MAME bezel -->
+	<view name="GarlicDude's HD Namco Classic Collection Bezel (Yellow)">
+		<!-- Bezel placement -->
+		<element ref="bezel_yellow">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</element>
+
+		<!-- Game screen placement -->
+		<screen index="0">
+			<bounds x="624" y="108" width="672" height="864" />
+		</screen>
+	</view>
+
+	<!-- The yellow MAME bezel -->
+	<view name="GarlicDude's HD Namco Classic Collection Bezel (Orson)">
+		<!-- Bezel placement -->
+		<element ref="bezel_orson">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</element>
+
+		<!-- Game screen placement -->
+		<screen index="0">
+			<bounds x="624" y="108" width="672" height="864" />
+		</screen>
 	</view>
 
 </mamelayout>
