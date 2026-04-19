@@ -11,10 +11,10 @@
 
 2. Put the ZIP file in one of your MAME artwork directories, and rename it to the name of the ROM set that you're using (for example, ncv2.zip).
 
-3. Boot up MAME, and run your legal copy of Namco Classic Collection. You should see the bezel show up around your game screen.
+3. Boot up MAME, and run your legal copy of Namco Classic Collection. You should see one of the bezels showing up around your game screen.
 
 4. If not, open up the menu by pressing tab and go to Video Options and Screen #0.
 
-5. From there, you should see GarlicDude's HD Namco Classic Collection Bezel. Enable that, and you should see the bezel show up around your screen.
+5. From there, you should see multiples versions of GarlicDude's HD Namco Classic Collection Bezel. Enable one of them, and you should see the bezel show up around your screen.
 
-6. You're good to go!
+6. You're good to go! Enjoy!
