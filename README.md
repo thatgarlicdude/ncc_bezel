@@ -1,6 +1,10 @@
 # Namco Classic Collection HD Bezel
 
-![Preview](preview/preview.png)
+![Blue Preview](preview/preview_blue.png)
+![Green Preview](preview/preview_green.png)
+![Red Preview](preview/preview_red.png)
+![Yellow Preview](preview/preview_yellow.png)
+![Orson Preview](preview/preview_orson.png)
 
 ## Overview
 
