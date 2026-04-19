@@ -8,7 +8,17 @@
 
 ## Overview
 
-A fan-made HD vector recreation of the bezel/overlay from *Namco Museum (2001)*.
+A fan-made HD vector recreation of the Namco Classic Collection bezel from *Namco Museum (2001)*. It is designed for MAME and can be used for both *Namco Classic Collection Vol. 1* and *Namco Classic Collection Vol. 2*.
+
+## Features
+
+- An HD vector recreation of the bezel/overlay from *Namco Museum (2001)*.
+- Multiple kinds of bezels to choose from.
+- Customizable bezels as vector files (.svg).
+
+## Install
+
+The MAME artwork can be installed by following the instructions in `INSTALL.md`.
 
 ## License
 
