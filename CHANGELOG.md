@@ -1,3 +1,12 @@
+2025-04-20 GarlicDude <garlicdudedev@gmail.com>
+
+	Namco Classic Collection HD Bezel v1.1.0
+	* Added 4 new bezels to choose from.
+		* So far, there are the blue, red, green, yellow, and Orson-themed bezels.
+	* Updated the base bezels.
+		* The base bezels now have a 16x9 rectangle as a reference for what the bezels will look like when outputted.
+	* Added a GitHub banner to the project.
+
 2025-04-14 GarlicDude <garlicdudedev@gmail.com>
 
 	Namco Classic Collection HD Bezel v1.0.1
